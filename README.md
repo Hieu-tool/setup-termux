@@ -4,7 +4,7 @@
 
 `lệnh setup`
 
-[Link Download](https://apkcombo.com/vi/termux/com.termux/)
+[Link Download](https://apkcombo.com/vi/termux/com.termux/){target="_blank"}
 
 > Cấp quyền bộ nhớ
 ```php
