@@ -13,7 +13,7 @@ termux-setup-storage
 pkg update -y && pkg upgrade -y && pkg install php -y && pkg install python -y && pip install requests && pip install bs4 && pip install colorama && pip install pystyle && pip install pycurl && pip install beautifulsoup4 && pip install inquirer && pip install pillow && pip install console && pkg install git -y
 ```
 
-> Setup Theme Termux
+# Setup Theme Termux
 
 ![Theme Termux](https://blogger.googleusercontent.com/img/a/AVvXsEhsHWEwJ--I1yMYSG2ZXHfBH8brn55c5EshOOxSBDzfwcShl5o3q861MQw-1kdXZGwSrsgbFTTPOQBw56eX87a9zvZdQ9mkXN1MJXrGtS9pQa3xBdWDNWBWLYkFN8x-IemY7n01_kSGuiWvN_PWWkiPXCzC7uqBkn6yA5C1rqQMHy-_Kfi7enSUiGuSA5IV=w556-h445)
 
