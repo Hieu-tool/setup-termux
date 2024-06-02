@@ -4,6 +4,11 @@
 
 `lệnh setup`
 
+> Link Download
+```php
+https://apkcombo.com/vi/termux/com.termux/
+```
+
 > Cấp quyền bộ nhớ
 ```php
 termux-setup-storage
