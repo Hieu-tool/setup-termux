@@ -30,3 +30,4 @@ cd theme-termux
 ```php
 bash setup.sh
 ```
+<a href="https://www.youtube.com/@hieutool248" target="_blank">-->Yotube</a>
