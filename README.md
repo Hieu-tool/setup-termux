@@ -22,5 +22,5 @@ git clone https://github.com/Hieu-tool/theme-termux.git
 ```
 
 ```php
-cd setup-termux
+cd theme-termux
 ```
